@@ -7,4 +7,6 @@
     //inside index.js now we can create routes by using express
     //In java we import the dependencies, but here in node, we do: const express = require("express")//see index.js
     //any installed package u want to use, u need to do const name = require("package name");
-    
+// to use typescript we need to install typescript
+    //npm install -g typescript //global means its available to any project in our computer
+        //we could only install npm install typescript in our project as well.
