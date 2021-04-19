@@ -1,0 +1,15 @@
+{
+  "name": "node101",
+  "version": "1.0.0",
+  "description": "Beginners Node Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Dhurba Ghimire",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
